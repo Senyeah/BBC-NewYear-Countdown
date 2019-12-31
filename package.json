@@ -1,0 +1,19 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "NYE BBC Countdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "rxjs": "^6.5.4"
+  }
+}
